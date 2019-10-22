@@ -1,0 +1,11 @@
+C:\Users\CompuStore\source\repos\Trabajo en clases1\Trabajo en clases1\obj\Debug\netcoreapp2.1\Trabajo en clases1.csprojAssemblyReference.cache
+C:\Users\CompuStore\source\repos\Trabajo en clases1\Trabajo en clases1\obj\Debug\netcoreapp2.1\Trabajo en clases1.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\source\repos\Trabajo en clases1\Trabajo en clases1\obj\Debug\netcoreapp2.1\Trabajo en clases1.AssemblyInfoInputs.cache
+C:\Users\CompuStore\source\repos\Trabajo en clases1\Trabajo en clases1\obj\Debug\netcoreapp2.1\Trabajo en clases1.AssemblyInfo.cs
+C:\Users\CompuStore\source\repos\Trabajo en clases1\Trabajo en clases1\bin\Debug\netcoreapp2.1\Trabajo en clases1.deps.json
+C:\Users\CompuStore\source\repos\Trabajo en clases1\Trabajo en clases1\bin\Debug\netcoreapp2.1\Trabajo en clases1.runtimeconfig.json
+C:\Users\CompuStore\source\repos\Trabajo en clases1\Trabajo en clases1\bin\Debug\netcoreapp2.1\Trabajo en clases1.runtimeconfig.dev.json
+C:\Users\CompuStore\source\repos\Trabajo en clases1\Trabajo en clases1\bin\Debug\netcoreapp2.1\Trabajo en clases1.dll
+C:\Users\CompuStore\source\repos\Trabajo en clases1\Trabajo en clases1\bin\Debug\netcoreapp2.1\Trabajo en clases1.pdb
+C:\Users\CompuStore\source\repos\Trabajo en clases1\Trabajo en clases1\obj\Debug\netcoreapp2.1\Trabajo en clases1.dll
+C:\Users\CompuStore\source\repos\Trabajo en clases1\Trabajo en clases1\obj\Debug\netcoreapp2.1\Trabajo en clases1.pdb
